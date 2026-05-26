@@ -44,5 +44,4 @@ desktop.ini
 # Large generated project artifacts
 data/
 outputs/
-checkpoints/
 logs/
